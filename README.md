@@ -1,6 +1,6 @@
 # Weather-Station-Project
 
-GR
+**GR**
 Αυτό είναι το repo για το weather station project, κάποια βασικά να έχεις στο νου σου όσο περιηγείσαι:
 
 1. Είναι Open Source Project με διάφορα CAD files, σχεδιαγράμματα, πηγαίο κώδικα κτλ. Δίαβασε περισσότερα στο LICENSE.md
@@ -13,7 +13,7 @@ GR
 Για το λογισμικό χρησιμοποιείται η άδεια The MIT License.
 
 
-ΕΝ
+**ΕΝ**
 This is the repo for the weather station project, some fundamentals to have on your mind while browsing:
 
 1. This is an Open Source project under CERN-OHL-S license with various CAD files, diagrams, source code etc. with the according consequences
