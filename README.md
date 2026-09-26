@@ -32,6 +32,6 @@ For the Software part we are using The MIT License.
 
 
 
-Copyright © 2026 ACM AUTh Student Chapter CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+**Copyright © 2026 ACM AUTh Student Chapter CERN Open Hardware Licence Version 2 - Strongly Reciprocal**
 
-Copyright © 2026 ACM AUTh Student Chapter The MIT License
+**Copyright © 2026 ACM AUTh Student Chapter The MIT License**
