@@ -23,6 +23,7 @@ This is the repo for the weather station project, some fundamentals to have on y
 
 
 **Licensing**:
+
 For the Hardware part we are using the CERN-OHL-S License (Strongly Reciprocal)
 
 For the Software part we are using The MIT License.
