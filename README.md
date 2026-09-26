@@ -1,6 +1,7 @@
 # Weather-Station-Project
 
-![plot](./Miscellaneous/WeatherStationExample.png)
+<img src="./Miscellaneous/WeatherStationExample.png" width="600" height="400" alt="plot">
+
 
 **GR**
 Αυτό είναι το repo για το weather station project, κάποια βασικά να έχεις στο νου σου όσο περιηγείσαι:
