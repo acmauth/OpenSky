@@ -1,6 +1,6 @@
 # Weather-Station-Project
 
-<img src="./Miscellaneous/WeatherStationExample.png" width="150" height="300" alt="plot">
+<img src="./Miscellaneous/WeatherStationExample.png" width="300" height="450" alt="plot">
 
 
 **GR**
