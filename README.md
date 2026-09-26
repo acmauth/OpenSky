@@ -7,7 +7,8 @@
 2. -- Νίκο συμπλήρωσε κάτι xd --
 3. Είστε ελεύθεροι να ρωτήσετε οτιδήποτε
 
-Άδειες
+**Άδειες**
+
 Για το υλικό χρησιμοποιείται η άδεια CERN-OHL-S (αυστηρά αμοιβαία)
 
 Για το λογισμικό χρησιμοποιείται η άδεια The MIT License.
@@ -21,7 +22,7 @@ This is the repo for the weather station project, some fundamentals to have on y
 4. Feel free to ask anything
 
 
-Licensing:
+**Licensing**:
 For the Hardware part we are using the CERN-OHL-S License (Strongly Reciprocal)
 
 For the Software part we are using The MIT License.
