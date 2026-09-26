@@ -1,6 +1,6 @@
 # Weather-Station-Project
 
-![plot](./Weather-Station/Miscellaneous/WeatherStationExample.png)
+![plot](./Miscellaneous/WeatherStationExample.png)
 
 **GR**
 Αυτό είναι το repo για το weather station project, κάποια βασικά να έχεις στο νου σου όσο περιηγείσαι:
