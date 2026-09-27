@@ -12,7 +12,7 @@ This repository is available to you in Greek and English (GR/EN)
 
 1. Ευρετήριο Όρων
 2. Σχεδιάγραμμα Αρχιτεκτονικής  
-3. 
+3. --
 4. --
 5. Κατάλογος Υλικών (BOM)
 6. Πηγές
