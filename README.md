@@ -15,10 +15,37 @@ This repository is available to you in Greek and English (GR/EN)
 3. --
 4. --
 5. Κατάλογος Υλικών (BOM)
-6. Πηγές
+6. Κατασκευή Συστήματος
+7. Πηγές
+
+
+
+Ευρετήριο όρων
+---
+Το **ευρετήριο** (φάκελος Index) έχει αρκετούς από τους βασικούς όρους στα ελληνικά και στα αγγλικά που χρησιμοποιούμε στο repo είτε τεχνικούς είτε όχι.
+
+
+
+Σχεδιάγραμμα Αρχιτεκτονικής
+---
+<img src="./Miscellaneous/SystemArchitectureWeatherStation.png" width="600" height="600" alt="plot">
+
+Για την πρώτη έκδοση v0.1 θέλουμε να πετύχουμε ασύρματη επικοινωνία δύο υποσταθμών. Ο ένας είναι ο συλλογέας δεδομένων, όπου μέσω αισθητήρων θα μαζεύει τα δεδομένα ανά τακτά χρονικά διαστήματα (όχι real time για λόγους ενεργειακής απόδοσης) και θα τα στέλνει μέσω κεραίας και LoRa στον δεύτερο υποσταθμό που είναι ο server που λαμβάνει τα δεδομένα, τα επεξεργάζεται και τα δείχνει σε μια μικρή οθόνη OLED.   
+
+Κατάλογος Υλικών (BOM)
+---
+
+Κατασκευή Συστήματος
+---
+
+Πηγές
+---
+Για να κατασκευάσει κάποιος από
 
 
 Στις 27/09/2026 που γράφεται αυτή η ενημέρωση βρισκόμαστε στην έκδοση v0.1
+
+
 
 **ΕΝ**
 
@@ -31,7 +58,30 @@ Here and in order we will explain some things including:
 3. --
 4. --
 5. Bill Of Materials (BOM)
-6. Resources
+6. System Construction
+7. Resources
+
+   
+Index
+---
+The **Index** (Index directory) has many of the most used terminology in the repo, both non technical and technical in both Greek and English.
+
+
+Architecture Diagram
+---
+<img src="./Miscellaneous/SystemArchitectureWeatherStation.png" width="600" height="600" alt="plot">
+
+For the v0.1 we want to achieve wireless communication of the two substations of the weather station. The first collects environmental data at regular intervals, (not in real time for energy saving reasons) and it will send them through an antenna and LoRa to the second substation, the server, who will process and display the data in an OLED Screen   
+
+Bill Of Materials (BOM)
+---
+
+System Construction
+---
+
+Resources
+---
+
 
 We are at version v0.1 at 27/09/2026 when this is updated
 
