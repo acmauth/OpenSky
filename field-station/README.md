@@ -10,3 +10,7 @@ This is v1.0 also known as Proof of Concept (PoC).
 See below for the abstract diagram of this version.
 
 
+
+![architecture](/Miscellaneous/SystemArchitectureWeatherStation.png)
+
+more details as soon as we can provide them (28/09/2026)
