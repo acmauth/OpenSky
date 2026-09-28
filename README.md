@@ -15,7 +15,7 @@ This repository is available to you in Greek and English (GR/EN)
 3. --
 4. --
 5. Κατάλογος Υλικών (BOM)
-6. Κατασκευή Συστήματος
+6. Συναρμολόγηση Συστήματος
 7. Πηγές
 
 
@@ -35,7 +35,7 @@ This repository is available to you in Greek and English (GR/EN)
 Κατάλογος Υλικών (BOM)
 ---
 
-Κατασκευή Συστήματος
+Συναρμολόγηση Συστήματος
 ---
 
 Πηγές
