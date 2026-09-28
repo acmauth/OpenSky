@@ -35,12 +35,16 @@ This repository is available to you in Greek and English (GR/EN)
 Κατάλογος Υλικών (BOM)
 ---
 
+Ο Κατάλογος Υλικών παρέχει λεπτομέρειες για κάθε ξεχωριστό αντικείμενο που χρησιμοποιήθηκε στο πρότζεκτ με ενδεικτική τιμή, αριθμό που χρησιμοποιήθηκαν, όνομα και κωδικό κατασκευαστή και υπερσυνδέσμους για άμεση αγορά από διεθνείς προμηθευτές. Περισσότερα στον φάκελο Bill-Of-Materials.
+
 Συναρμολόγηση Συστήματος
 ---
 
+Εφόσον έχεις αγοράσει τα υλικά από το **BOM** και τα έχεις παραλάβει τότε πρέπει και να συναρμολογήσεις το σύστημα. Για αυτό στον φάκελο Assembly-Tutorial μπορείς να βρεις διάφορα μικρά βιντεάκια τα οποία θα σε καθοδηγήσουν βήμα προς βήμα ώστε από το μηδέν να φτιάξεις το σύστημα.
+
 Πηγές
 ---
-Για να κατασκευάσει κάποιος από
+
 
 
 Στις 27/09/2026 που γράφεται αυτή η ενημέρωση βρισκόμαστε στην έκδοση v0.1
@@ -75,9 +79,12 @@ For the v0.1 we want to achieve wireless communication of the two substations of
 
 Bill Of Materials (BOM)
 ---
+The Bill of Materials has details about every distinct item used in the project with the price we acquired it, the number of parts used, manufacturer name and code for the item and hyperlinks to buy directly through international suppliers. More on the Bill-Of-Materials directory.
 
-System Construction
+System Assembly
 ---
+
+When you buy the necessary materials from the **BOM** and they have been delivered, then you have to assemble the system. For this purpose, you can go to the Assembly-Tutorial Directory where you can find various short videos that will guide you step by step so that you can assemble the system from zero.
 
 Resources
 ---
