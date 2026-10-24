@@ -12,11 +12,9 @@ This repository is available to you in Greek and English (GR/EN)
 
 1. Ευρετήριο Όρων
 2. Σχεδιάγραμμα Αρχιτεκτονικής  
-3. --
-4. --
-5. Κατάλογος Υλικών (BOM)
-6. Συναρμολόγηση Συστήματος
-7. Πηγές
+3. Κατάλογος Υλικών (BOM)
+4. Συναρμολόγηση Συστήματος
+5. Πηγές
 
 
 
@@ -59,11 +57,9 @@ Here and in order we will explain some things including:
 
 1. Index
 2. Architecture Diagram
-3. --
-4. --
-5. Bill Of Materials (BOM)
-6. System Construction
-7. Resources
+3. Bill Of Materials (BOM)
+4. System Construction
+5. Resources
 
    
 Index
