@@ -8,7 +8,7 @@ This repository is available to you in Greek and English (GR/EN)
 # OpenSky-Project
 
 
-<img src="./Miscellaneous/WeatherStationExample.png" width="300" height="450" alt="plot">
+<img src="./Miscellaneous/Assets/WeatherStationExample.png" width="300" height="450" alt="plot">
 
 
 This is the repository for the **OpenSky Project**. Our objective is to create, slowly and steadily, a solution for you to have the ability to use the device only with the costs of materials and free of any intellectual property. You are licensed to use/repurpose the files as long as you are of the Open Source philosophy yourself and adhere to the other licenses we are using. We are the official student team of ACM at Aristotle University of Thessaloniki (AUTh) and we hope you find this useful. For any other questions don't hesitate to ask us.
