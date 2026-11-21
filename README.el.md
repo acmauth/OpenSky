@@ -1,3 +1,9 @@
+
+[![Static Badge](https://img.shields.io/badge/lang-GR-blue)](README.el.md)
+[![Static Badge](https://img.shields.io/badge/lang-EN-%23820940)](README.md)
+
+This repository is available to you in Greek and English (GR/EN)
+
 # OpenSky-Project
 
 Αυτό το αποθετήριο βρίσκεται στη διάθεσή σας στα Ελληνικά και Αγγλικά (GR/EN)
