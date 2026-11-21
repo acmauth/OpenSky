@@ -6,7 +6,7 @@
 
 # OpenSky-Project
 
-<img src="./Miscellaneous/WeatherStationExample.png" width="300" height="450" alt="plot">
+<img src="./Miscellaneous/Assets/WeatherStationExample.png" width="300" height="450" alt="plot">
 
 **GR**
 
