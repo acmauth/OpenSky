@@ -26,7 +26,7 @@ The **Index** (Index directory) has many of the most used terminology in the rep
 
 Architecture Diagram
 ---
-<img src="./Miscellaneous/SystemArchitectureWeatherStation.png" width="600" height="600" alt="plot">
+<img src="./Miscellaneous/Assets/SystemArchitectureWeatherStation.png" width="600" height="600" alt="plot">
 
 For the v0.1 we want to achieve wireless communication of the two substations of the weather station. The first collects environmental data at regular intervals, (not in real time for energy saving reasons) and it will send them through an antenna and LoRa to the second substation, the server, who will process and display the data in an OLED Screen   
 
