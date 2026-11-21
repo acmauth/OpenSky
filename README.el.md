@@ -2,8 +2,6 @@
 [![Static Badge](https://img.shields.io/badge/lang-EN-%23820940)](README.md)
 [![Static Badge](https://img.shields.io/badge/lang-GR-blue)](README.el.md)
 
-Αυτό το αποθετήριο βρίσκεται στη διάθεσή σας στα Ελληνικά και Αγγλικά (GR/EN)
-
 # OpenSky-Project
 
 <img src="./Miscellaneous/Assets/WeatherStationExample.png" width="300" height="450" alt="plot">
