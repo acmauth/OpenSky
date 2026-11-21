@@ -1,5 +1,6 @@
+[![Static Badge](https://img.shields.io/badge/lang-EN-%23820940)](README.md)
+[![Static Badge](https://img.shields.io/badge/lang-GR-blue)](README.el.md)
+
 Miscellaneous
 ---
-**GR** Υπάρχουν διάφορα πράγματα όπως φωτογραφίες και γραφικά που χρησιμοποιούνται στο repository για το οπτικό κομμάτι, για αυτό βρίσκονται στον φάκελο διάφορα.
-
-**EN**# Index There are some miscellaneous things like images or graphics used inside this repository just for the visual part, thats why they are in the miscellaneous folder.
+There are some miscellaneous things like datasheets (docs) or graphics (Assets) used inside this repository 
