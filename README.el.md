@@ -44,6 +44,9 @@
 
 Πηγές
 ---
+Στις 27/09/2026 που γράφεται αυτή η ενημέρωση βρισκόμαστε στην έκδοση v0.1
+
+
 
 
 **Copyright © 2026 ACM AUTh Student Chapter CERN Open Hardware Licence Version 2 - Strongly Reciprocal**
@@ -53,4 +56,3 @@
 
 
 
-Στις 27/09/2026 που γράφεται αυτή η ενημέρωση βρισκόμαστε στην έκδοση v0.1
