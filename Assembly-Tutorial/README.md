@@ -4,4 +4,6 @@
 Assembly Tutorials
 ---
 
-This is where you can find small videos, both in Greek and English, on how to assemble the various devices after purchasing the necessary parts from the Bill Of Materials online.
+This is where you can links to our YouTube channel assembly video playlist along with extra notes, both in Greek and English, on how to assemble the various devices after purchasing the necessary parts from the Bill Of Materials online. 
+
+
